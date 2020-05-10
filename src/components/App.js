@@ -83,7 +83,7 @@ class App extends Component {
         <header className="App-header">
           {/*  */}
           <h1>Spotified React</h1>
-          <p className="descrip">Spot what I'm currently listening to!</p>
+          <p className="descrip">Spot what you're currently listening to!</p>
           {!this.state.token && (
             <a
               className="btn btn--loginApp-link"

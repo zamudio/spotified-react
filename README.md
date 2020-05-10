@@ -1,6 +1,6 @@
 ## Spotified React
 
-A simple react app to play what you're currently listening to on Spotify
+A basic web player that shows what you're currently listening to on Spotify
 
 ## Motivation
 
@@ -66,7 +66,5 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 #### Anything else that seems useful
 
 ## License
-
-A short snippet describing the license (MIT, Apache etc)
 
 MIT © [Michael Zamudio](2020)

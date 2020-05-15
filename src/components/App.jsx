@@ -36,7 +36,6 @@ class App extends Component {
         token: _token,
       });
       this.getCurrentlyPlaying(_token);
-      // this.getStatsOnCurrentlyPlaying(_token);
     }
   }
 
@@ -60,28 +59,10 @@ class App extends Component {
     });
   }
 
-  // getStatsOnCurrentlyPlaying(token, _track_id) {
-  //   // Make a call using the token
-  //   $.ajax({
-  //     // url: `https://api.spotify.com/v1/audio-features/${_track_id}`,
-  //     // url: "https://api.spotify.com/v1/audio-features/11dFghVXANMlKmJXsNCbNl",
-  //     type: "GET",
-  //     beforeSend: (xhr) => {
-  //       xhr.setRequestHeader("Authorization", "Bearer " + token);
-  //     },
-  //     success: (d) => {
-  //       this.setState({
-  //         danceability: d.danceability,
-  //       });
-  //     },
-  //   });
-  // }
-
   render() {
     return (
       <div className="App">
         <header className="App-header">
-          {/*  */}
           <h1>Spotified React</h1>
           <p className="descrip">
             Spot what you're currently listening to... Because why not?

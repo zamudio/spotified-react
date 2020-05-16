@@ -1,13 +1,13 @@
 ## Spotified React
-
 A basic web player that shows what you're currently listening to on Spotify
 
 ## Motivation
-
 I built this to get a handle on Spotify's Oauth API and to begin to understand their API. Also, to further practice React.
 
-## How to use?
+## Screenshot
+<img src="https://github.com/zamudio/spotified-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
+## How to use?
 Go [here](https://spotified-react.netlify.app/) for a live demo.
 
 You must be playing music on spotify for it to show anything.
@@ -19,10 +19,6 @@ It will then display what you're listening to with album art.
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-
-## Screenshots
-
-<img src="https://github.com/zamudio/spotified-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 <b>Built with</b>

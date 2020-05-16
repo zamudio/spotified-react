@@ -21,8 +21,6 @@ It will then display what you're listening to with album art.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Tech/framework used
-<b>Built with</b>
-
 - [React](https://reactjs.org)
 
 ## API Reference

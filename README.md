@@ -17,9 +17,12 @@ It will then display what you're listening to with album art.
 ## Build status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6d5ee4e7-836d-4dfd-91aa-762aa3507d13/deploy-status)](https://app.netlify.com/sites/spotified-react/deploys)
 
+## Code style
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 ## Screenshots
 
-Include logo/demo screenshot etc.
+<img src="https://github.com/zamudio/spotified-react/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## Tech/framework used
 <b>Built with</b>
